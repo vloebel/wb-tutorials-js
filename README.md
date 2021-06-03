@@ -1,9 +1,9 @@
 # Wes Bos Tutorials
 
-This repo consists of my (mostly unmodified) versions of the Wes Bos Javascript 30 tutorials, who owns the copyright, licensing, and etc. 
+This repo consists of (marginally modified) versions of the Wes Bos free and paid tutorials. See [wesbos.com/courses](https://wesbos.com/courses) for copyright, licensing, and etc. 
 
-I HIGHLY recommend these well-structured tutorials to anyone learning pure js.
+I HIGHLY recommend these fast-paced and well-structured tutorials. See also:  
 
-For more information visit: [Javascript 30](https://javascript30.com)
+  * [Javascript 30](https://javascript30.com)  
 
-The [Javascript 30 Repository files are here](https://github.com/wesbos)
+  *  [Javascript 30 Repo](https://github.com/wesbos)
